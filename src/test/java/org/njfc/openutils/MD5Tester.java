@@ -1,6 +1,4 @@
-package test.njfc.openutils;
-
-import org.njfc.openutils.MD5;
+package org.njfc.openutils;
 
 public class MD5Tester {
 
